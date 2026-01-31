@@ -6,9 +6,6 @@
 This project implements an **automated end-to-end pipeline** to extract structured data on the armament of non-state actors (rebel groups) from unstructured text sources. 
 
 Leveraging the **GDELT Project (Global Database of Events, Language, and Tone)** and **Large Language Models (LLMs)**, this system aims to enrich conflict datasets such as the *Rebels' Armament Dataset (RAD)* by identifying links between specific insurgent groups and weapon systems in real-time news streams.
-
-> **Context:** Developed as a proof-of-concept for the application at the **Chair of Empirical Political Research (LMU Munich)**, demonstrating pipeline engineering and strategies for hallucination reduction in scientific data extraction.
-
 ---
 
 ## 🚀 Key Features & Methodology
@@ -24,5 +21,4 @@ The pipeline addresses the challenge of extracting reliable data from noisy, uns
 A critical requirement for political science research is data integrity. Standard LLM extraction often leads to hallucinations (inventing weapon transfers). This project implements a **Chain-of-Verification (CoVe)** approach:
 
 1.  **Extraction Phase:** The model identifies potential `(Actor, Weapon)` tuples.
-2.  **Verification Phase (Guardrail):** A secondary logic forces the model to provide an **exact quote** from the source text as evidence.
-    -
+2.  **Verification Phase (Guardrail):** A secondary logic forces the model to provide an **exact quote** from the source text as evidence, to reduve hallucination!
