@@ -24,3 +24,26 @@ A critical requirement for political science research is data integrity. Standar
 
 1.  **Extraction Phase:** The model identifies potential `(Actor, Weapon)` tuples.
 2.  **Verification Phase (Guardrail):** A secondary logic forces the model to provide an **exact quote** from the source text as evidence, to reduve hallucination!
+
+
+---
+
+
+
+## 📂 Project Structure
+
+This repository follows a modular architecture to separate data ingestion, NLP processing, and validation logic.
+
+```text
+rebel-arms-pipeline/
+├── data/
+│   ├── raw/                   # Raw JSON responses fetched from GDELT API
+│   └── processed/             # Final structured data (verified events)
+├── src/
+│   ├── __init__.py
+│   ├── ingestion.py           # Handles GDELT API requests, rate limiting & filtering
+│   ├── extractor.py           # Core NLP logic: LLM prompting & Hallucination Check
+│   └── main.py                # Orchestrates the full pipeline flow
+├── .gitignore                 # Excludes local data and API keys
+├── requirements.txt           # Python dependencies (pandas, openai, requests)
+└── README.md                  # Project documentation and methodology
