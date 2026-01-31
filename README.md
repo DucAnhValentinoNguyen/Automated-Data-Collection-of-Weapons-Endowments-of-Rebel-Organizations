@@ -70,9 +70,11 @@ To view a structured table of the results in your terminal:
 
 ```Bash
 python src/report.py
+```
+
 Data Structure
 The output verified_events.json follows this schema:
-```
+
 
 ```
 JSON
