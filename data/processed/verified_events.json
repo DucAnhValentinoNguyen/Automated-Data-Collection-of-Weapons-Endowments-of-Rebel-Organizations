@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.theglobeandmail.com/world/article-rwanda-backed-militia-violating-trump-peace-plan-un-report-says/",
+    "gdelt_id": "https://www.theglobeandmail.com/world/article-rwanda-backed-militia-violating-trump-peace-plan-un-report-says/",
+    "timestamp": "20260108T001500Z",
+    "nlp_analysis": {
+      "rebel_group": "Rwanda-backed militia",
+      "weapon": "Small Arms",
+      "verification_status": "INFERRED",
+      "evidence_quote": "Rwanda-backed militia violating Trump peace plan , UN report says"
+    }
+  },
+  {
+    "source_url": "https://www.aa.com.tr/en/africa/sudan-s-army-enters-south-kordofan-city-after-2-year-siege-by-paramilitary-rsf/3811454",
+    "gdelt_id": "https://www.aa.com.tr/en/africa/sudan-s-army-enters-south-kordofan-city-after-2-year-siege-by-paramilitary-rsf/3811454",
+    "timestamp": "20260126T203000Z",
+    "nlp_analysis": {
+      "rebel_group": "RSF",
+      "weapon": "Explosives/Small Arms",
+      "verification_status": "INFERRED",
+      "evidence_quote": "Sudan army enters South Kordofan city after 2-year siege by paramilitary RSF."
+    }
+  },
+  {
+    "source_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/21/at-least-8-nigerian-soldiers-killed-in-boko-haram-attack-in-borno",
+    "gdelt_id": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/21/at-least-8-nigerian-soldiers-killed-in-boko-haram-attack-in-borno",
+    "timestamp": "20260121T234500Z",
+    "nlp_analysis": {
+      "rebel_group": "Boko Haram",
+      "weapon": "Small Arms",
+      "verification_status": "INFERRED",
+      "evidence_quote": "At least 8 Nigerian soldiers killed in Boko Haram attack in Borno."
+    }
+  },
+  {
+    "source_url": "http://www.cameroon-tribune.cm/article.html/23701/fr.html/car-bakouma-under",
+    "gdelt_id": "http://www.cameroon-tribune.cm/article.html/23701/fr.html/car-bakouma-under",
+    "timestamp": "20260131T033000Z",
+    "nlp_analysis": {
+      "rebel_group": "CAR",
+      "weapon": "Explosives",
+      "verification_status": "INFERRED",
+      "evidence_quote": "Bakouma Under MINUSCA. Date: 20260131T033000Z"
+    }
+  },
+  {
+    "source_url": "http://www.jpost.com/international/islamic-terrorism/article-884145",
+    "gdelt_id": "http://www.jpost.com/international/islamic-terrorism/article-884145",
+    "timestamp": "20260121T234500Z",
+    "nlp_analysis": {
+      "rebel_group": "Boko Haram",
+      "weapon": "Small Arms",
+      "verification_status": "INFERRED",
+      "evidence_quote": "Boko Haram attacks Nigerian soldiers, kill eight, wound 50."
+    }
+  },
+  {
+    "source_url": "https://www.firstpost.com/world/drc-accuses-rwanda-backed-m23-of-killing-over-1500-people-last-month-13964667.html",
+    "gdelt_id": "https://www.firstpost.com/world/drc-accuses-rwanda-backed-m23-of-killing-over-1500-people-last-month-13964667.html",
+    "timestamp": "20260102T034500Z",
+    "nlp_analysis": {
+      "rebel_group": "M23",
+      "weapon": "Small Arms",
+      "verification_status": "INFERRED",
+      "evidence_quote": "killing over 1,500 people last month"
+    }
+  },
+  {
+    "source_url": "https://www.bostonglobe.com/2026/01/18/world/syrian-government-kurdish-led-force-agree-merge-after-clashes/",
+    "gdelt_id": "https://www.bostonglobe.com/2026/01/18/world/syrian-government-kurdish-led-force-agree-merge-after-clashes/",
+    "timestamp": "20260119T011500Z",
+    "nlp_analysis": {
+      "rebel_group": "Unknown",
+      "verification_status": "API_ERROR"
+    }
+  },
+  {
+    "source_url": "https://abcnews.go.com/International/wireStory/congolese-soldiers-reenter-key-eastern-city-after-m23-129363064",
+    "gdelt_id": "https://abcnews.go.com/International/wireStory/congolese-soldiers-reenter-key-eastern-city-after-m23-129363064",
+    "timestamp": "20260120T083000Z",
+    "nlp_analysis": {
+      "rebel_group": "M23",
+      "weapon": "Small Arms",
+      "verification_status": "INFERRED",
+      "evidence_quote": "Congolese soldiers reenter key eastern city after M23 rebel withdrawal, army and residents say."
+    }
+  },
+  {
+    "source_url": "https://nypost.com/2026/01/15/us-news/what-is-the-insurrection-act-of-1807/",
+    "gdelt_id": "https://nypost.com/2026/01/15/us-news/what-is-the-insurrection-act-of-1807/",
+    "timestamp": "20260115T200000Z",
+    "nlp_analysis": {
+      "rebel_group": "Supporters of Donald Trump",
+      "weapon": "Military force (Insurrection Act)",
+      "verification_status": "VERIFIED",
+      "evidence_quote": "President Trump threatened to invoke the Insurrection Act to quell the January 6 United States Capitol attack."
+    }
+  },
+  {
+    "source_url": "https://www.moneycontrol.com/world/a-50-million-bounty-how-venezuela-s-president-nicolas-maduro-became-america-s-most-wanted-article-13755285.html",
+    "gdelt_id": "https://www.moneycontrol.com/world/a-50-million-bounty-how-venezuela-s-president-nicolas-maduro-became-america-s-most-wanted-article-13755285.html",
+    "timestamp": "20260103T120000Z",
+    "nlp_analysis": {
+      "rebel_group": "INFERRED",
+      "weapon": "Explosives",
+      "verification_status": "INFERRED",
+      "evidence_quote": "A $50 million bounty : How Venezuela President Nicolas Maduro became America most wanted."
+    }
+  }
+]

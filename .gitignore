@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (Optional: ignore raw data if it's too big)
+data/raw/*
+!data/processed/verified_events.json
