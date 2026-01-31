@@ -6,6 +6,8 @@
 This project implements an **automated end-to-end pipeline** to extract structured data on the armament of non-state actors (rebel groups) from unstructured text sources. 
 
 By leveraging the **GDELT Project (Global Database of Events, Language, and Tone)** and **Large Language Models (LLMs)**, this system aims to enrich conflict datasets such as the *Rebels' Armament Dataset (RAD)* by identifying links between specific insurgent groups and weapon systems in real-time news streams.
+
+
 ---
 
 ## 🚀 Key Features & Methodology
