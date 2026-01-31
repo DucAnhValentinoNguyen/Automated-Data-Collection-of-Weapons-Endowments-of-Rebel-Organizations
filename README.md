@@ -42,7 +42,7 @@ rebel-arms-pipeline/
 │   └── main.py                # Pipeline orchestrator
 ├── requirements.txt           # Dependencies
 └── README.md                  # Project documentation
-
+```
 
 ---
 
