@@ -3,8 +3,6 @@
 ## Project Overview
 This pipeline automates the collection and analysis of non-state armed group weapon endowments. It leverages the **GDELT 2.0 API** for real-time global news ingestion and uses **Large Language Models (Meta-Llama-3-8B)** via the **Hugging Face Inference API** to extract structured conflict data.
 
-This project was developed as part of a research application for the Chair of Political Science and International Relations at LMU Munich.
-
 ## Features
 - **Data Ingestion**: Targeted GDELT queries for "rebel," "insurgent," and "militia" activities.
 - **NLP Extraction**: Automated identification of Rebel Groups, Weapon Systems, and Evidence Quotes.
